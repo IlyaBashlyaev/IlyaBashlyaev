@@ -24,7 +24,7 @@
 
 ---
 
-## 🧠 Skills & Technologies
+## 🧠 Skills and Technologies
 
 ### ⚙️ Back-End
 - **PHP** (back-end programming language with procedural and OOP)
@@ -40,8 +40,8 @@
 - Web animations and UI/UX design principles
 
 ### 🧩 CMS & Platforms
-- **WordPress** (Elementor, WPBakery, themes, plugins, REST API)
-- **TYPO3** (Extbase, Fluid, TypoScript)
+- **WordPress** (Elementor, WPBakery, themes, plugins and REST API)
+- **TYPO3** (Extbase, Fluid and TypoScript)
 
 ### 🛠 Tools & Software
 - **Adobe Creative Cloud**: Adobe Photoshop and Adobe Acrobat
