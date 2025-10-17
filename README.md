@@ -6,9 +6,9 @@
 
 - 🧑 Name: **Ilya Bashlyaev**
 - 📍 Based in: **Dortmund, Germany**
-- 🎂 Age: **18 years old**
+- 🎂 Age: **19 years old**
 - 🌍 Multilingual: **English, German, Ukrainian and Russian**
-- 💡 Professional in full-stack application development, creative problem solving, and continuous learning
+- 💡 Professional in full-stack application development, creative problem solving and continuous learning
 
 ---
 
@@ -35,18 +35,24 @@
 ### 🎨 Front-End
 - **HTML5**, **CSS3**, **SASS/SCSS**
 - **JavaScript**, **jQuery**
-- **React** (framework for building the front-end applications)
+- **React**
 - Responsive and cross-browser design
 - Web animations and UI/UX design principles
 
-### 🧩 CMS & Platforms
+### 🧩 CMS and Platforms
 - **WordPress** (Elementor, WPBakery, themes, plugins and REST API)
 - **TYPO3** (Extbase, Fluid and TypoScript)
 
-### 🛠 Tools & Software
+### 🛠 Tools and Software
 - **Adobe Creative Cloud**: Adobe Photoshop and Adobe Acrobat
 - **Microsoft Office**: Word, Excel and PowerPoint
 - **Developer Tools**: Linux, Git, GitHub and SSH
+
+### 🤖 AI tools
+- **ChatGPT**
+- **Claude**
+- **Gemini**
+- **Perplexity**
 
 ---
 
@@ -68,23 +74,44 @@
 
 ## 📂 Main Projects
 
+### 🌐 Website Info
+[🔗 GitHub Repository](https://github.com/IlyaBashlyaev/Website-Info)
+
+The web application that helps you to get quick information about the WordPress website. **Highlights:**
+- Built with **HTML, CSS, JavaScript and PHP (Laravel framework)**
+- The application with every aspect of **CRUD**: Create, Read, Update, Delete
+- Beautiful and intuitive admin panel with the connected account
+- Quick information about the WordPress website through the REST API
+- Easy account creation and comfortable management of the multiple websites
+- Website: https://website-info-app.onrender.com
+
+### 🛢 Licenses Database
+[🔗 GitHub Repository](https://github.com/IlyaBashlyaev/Licenses-Database)
+
+The database for the licenses with providers, clients and payments. **Highlights:**
+- Built with **HTML, CSS, JavaScript and PHP (Laravel framework)**
+- The application with every aspect of **CRUD**: Create, Read, Update, Delete
+- Storage of the licenses for any internet products
+- Flexible structure for managing these licenses
+- Website: https://licenses-database.onrender.com
+
 ### 🥗 Fresh and Tasty
 [🔗 GitHub Repository](https://github.com/IlyaBashlyaev/Fresh-and-Tasty)
 
-An E-commerce website for the fictional food order and delivery. **Highlights:**
+The e-commerce website for the fictional food order and delivery. **Highlights:**
 - Built with **HTML, CSS, JavaScript and PHP**
 - Interactive menu and cart system
 - Payments with PayPal Sandbox
-- Website: http://fresh-and-tasty.42web.io
+- Website: https://fresh-and-tasty.42web.io
 
 ### 💬 Telegram on Web
 [🔗 GitHub Repository](https://github.com/IlyaBashlyaev/Telegram-on-Web)
 
-A web-messenger similar to Telegram where you can chat with everybody. **Highlights:**
+The web-messenger similar to Telegram where you can chat with everybody. **Highlights:**
 - Built with **HTML, CSS, JavaScript and PHP**
 - Emulation of the Telegram’s interface and message interactions
 - Sending / Editing of messages, images and files
-- Website: http://telegram-on-web.42web.io
+- Website: https://telegram-on-web.42web.io
 
 ### ✨ Other projects
 - Creative Agency (https://ilyabashlyaev.github.io/Creative-Agency)
@@ -117,7 +144,7 @@ A web-messenger similar to Telegram where you can chat with everybody. **Highlig
 ## 📫 Contact
 
 - 📧 Email: **Will be soon...**
-- 💻 Portfolio: **Will be soon...**
+- 💻 Website: **Will be soon...**
 
 ---
 
