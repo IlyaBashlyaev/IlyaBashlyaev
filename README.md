@@ -118,12 +118,12 @@
 ---
 
 ## Main Projects
-| Name | Type | Stack | Link |
-| --- | --- | --- | --- |
-| Website Info | CRUD dashboard | **HTML/Bootstrap** (frontend) + **PHP/Laravel** (backend) | https://github.com/IlyaBashlyaev/Website-Info |
-| Licenses Database | CRUD application | **HTML/CSS/JS** (frontend) + **PHP/Laravel** (backend) | https://github.com/IlyaBashlyaev/Licenses-Database |
-| Fresh and Tasty | E-commerce website | **HTML/CSS/JS** (frontend) + **PHP** (backend) | https://github.com/IlyaBashlyaev/Fresh-and-Tasty |
-| Telegram on Web | Web-messenger | **HTML/CSS/JS** (frontend) + **PHP** (backend) | https://github.com/IlyaBashlyaev/Telegram-on-Web |
+| Name | Type | Frontend | Backend | Link |
+| --- | --- | --- | --- | --- |
+| Website Info | CRUD dashboard | HTML / Bootstrap | PHP / Laravel | https://github.com/IlyaBashlyaev/Website-Info |
+| Licenses Database | CRUD application | HTML / CSS / JS | PHP / Laravel | https://github.com/IlyaBashlyaev/Licenses-Database |
+| Fresh and Tasty | E-commerce website | HTML / CSS / JS | PHP | https://github.com/IlyaBashlyaev/Fresh-and-Tasty |
+| Telegram on Web | Web-messenger | HTML / CSS / JS | PHP | https://github.com/IlyaBashlyaev/Telegram-on-Web |
 
 ---
 
@@ -138,7 +138,6 @@
 ---
 
 ## GitHub Stats
-
 | Profile overview | Top languages | Contribution streak |
 | --- | --- | --- |
-| ![Stats](https://github-stats-extended.vercel.app/api?username=IlyaBashlyaev&show_icons=true&theme=tokyonight) | ![Top langs](https://github-stats-extended.vercel.app/api/top-langs/?username=IlyaBashlyaev&layout=compact&theme=tokyonight) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=IlyaBashlyaev&theme=tokyonight) |
+| ![Stats](https://github-stats-extended.vercel.app/api?username=IlyaBashlyaev&show_icons=true&theme=tokyonight) | ![Top langs](https://github-stats-extended.vercel.app/api/top-langs/?username=IlyaBashlyaev&layout=compact&theme=tokyonight) | ![Streak](https://github-readme-stats-fast.vercel.app/api/streak/?username=IlyaBashlyaev&theme=tokyonight) |
