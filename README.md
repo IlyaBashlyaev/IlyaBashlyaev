@@ -2,152 +2,143 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🧑 Name: **Ilya Bashlyaev**
-- 📍 Based in: **Dortmund, Germany**
-- 🎂 Age: **19 years old**
-- 🌍 Multilingual: **English, German, Ukrainian and Russian**
-- 💡 Professional in full-stack application development, creative problem solving and continuous learning
-
----
-
-## 💻 Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">
-</p>
+| Information | Details |
+| --- | --- |
+| Name | Ilya Bashlyaev |
+| Location | Dortmund, Germany |
+| Current Role | Backend Developer |
+| Focus | Python (Django / FastAPI) and PHP (Laravel) |
+| Email | **Coming soon...** |
 
 ---
 
-## 🧠 Skills and Technologies
-
-### ⚙️ Back-End
-- **PHP** (back-end programming language with procedural and OOP)
-- **Laravel** (framework for building the back-end applications)
-- **MySQL** (language for the queries with the database)
-- Authentication, validation, data export (CSV/PDF), caching and optimization
-
-### 🎨 Front-End
-- **HTML5**, **CSS3**, **SASS/SCSS**
-- **JavaScript**, **jQuery**
-- **React**
-- Responsive and cross-browser design
-- Web animations and UI/UX design principles
-
-### 🧩 CMS and Platforms
-- **WordPress** (Elementor, WPBakery, themes, plugins and REST API)
-- **TYPO3** (Extbase, Fluid and TypoScript)
-
-### 🛠 Tools and Software
-- **Adobe Creative Cloud**: Adobe Photoshop and Adobe Acrobat
-- **Microsoft Office**: Word, Excel and PowerPoint
-- **Developer Tools**: Linux, Git, GitHub and SSH
-
-### 🤖 AI tools
-- **ChatGPT**
-- **Claude**
-- **Gemini**
-- **Perplexity**
+## Work Experience
+| Period | Role | Company |
+| --- | --- | --- |
+| 08/2024 - 01/2026 | Backend Developer Trainee (FIAE) | kajado GmbH |
+| 02/2026 - now | Backend Developer Trainee (FIAE) | eRecht24 IT GmbH |
 
 ---
 
-## 🌐 Languages
-
-<table>
-    <thead>
-        <tr><td>Language</td><td>Proficiency</td></tr>
-    </thead>
-    <tbody>
-        <tr><td>🇬🇧 English</td><td>Fluent</td></tr>
-        <tr><td>🇩🇪 German</td><td>Fluent</td></tr>
-        <tr><td>🇺🇦 Ukrainian</td><td>Native</td></tr>
-        <tr><td>🏳️ Russian</td><td>Fluent</td></tr>
-    </tbody>
-</table>
+## Education
+| Period | Degree | University / College |
+| --- | --- | --- |
+| 2025 - now | B.Sc. Computer Science | FernUniversität in Hagen |
+| 2024 - 2027 | IT Specialist in Application Development | Robert Bosch Vocational College Dortmund |
 
 ---
 
-## 📂 Main Projects
+## Technical Stack
 
-### 🌐 Website Info
-[🔗 GitHub Repository](https://github.com/IlyaBashlyaev/Website-Info)
+### Programming languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-The web application that helps you to get quick information about the WordPress website. **Highlights:**
-- Built with **HTML, CSS, JavaScript and PHP (Laravel framework)**
-- The application with every aspect of **CRUD**: Create, Read, Update, Delete
-- Beautiful and intuitive admin panel with the connected account
-- Quick information about the WordPress website through the REST API
-- Easy account creation and comfortable management of the multiple websites
-- Website: https://website-info-app.onrender.com
+### Backend frameworks
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A83A?style=for-the-badge&logo=scrapy&logoColor=white)
 
-### 🛢 Licenses Database
-[🔗 GitHub Repository](https://github.com/IlyaBashlyaev/Licenses-Database)
+### Frontend frameworks / libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-F3F4F6?style=for-the-badge&logo=filament&logoColor=111827)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-The database for the licenses with providers, clients and payments. **Highlights:**
-- Built with **HTML, CSS, JavaScript and PHP (Laravel framework)**
-- The application with every aspect of **CRUD**: Create, Read, Update, Delete
-- Storage of the licenses for any internet products
-- Flexible structure for managing these licenses
-- Website: https://licenses-database.onrender.com
+### Orchestration frameworks and topics
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-3775A9?style=for-the-badge&logo=celery&logoColor=white)
 
-### 🥗 Fresh and Tasty
-[🔗 GitHub Repository](https://github.com/IlyaBashlyaev/Fresh-and-Tasty)
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-The e-commerce website for the fictional food order and delivery. **Highlights:**
-- Built with **HTML, CSS, JavaScript and PHP**
-- Interactive menu and cart system
-- Payments with PayPal Sandbox
-- Website: https://fresh-and-tasty.42web.io
+### DevOps / Containerization
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 💬 Telegram on Web
-[🔗 GitHub Repository](https://github.com/IlyaBashlyaev/Telegram-on-Web)
+### API request testing
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 
-The web-messenger similar to Telegram where you can chat with everybody. **Highlights:**
-- Built with **HTML, CSS, JavaScript and PHP**
-- Emulation of the Telegram’s interface and message interactions
-- Sending / Editing of messages, images and files
-- Website: https://telegram-on-web.42web.io
+### IDEs / Code editors
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white)
 
-### ✨ Other projects
-- Creative Agency (https://ilyabashlyaev.github.io/Creative-Agency)
-- Mogo (https://ilyabashlyaev.github.io/Mogo)
-- 2048 (https://ilyabashlyaev.github.io/2048)
-- Tetris (https://ilyabashlyaev.github.io/Tetris-2.0)
+### Terminal
+![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-F22424?style=for-the-badge&logo=zsh&logoColor=white)
+![Warp](https://img.shields.io/badge/Warp-050505?style=for-the-badge&logo=warp&logoColor=white)
+![iTerm2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<table>
-    <tbody>
-        <tr>
-            <td><p>
-                <img src="https://github-readme-stats.vercel.app/api?username=IlyaBashlyaev&show_icons=true&theme=tokyonight">
-            </p></td>
-            <td><p>
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=IlyaBashlyaev&theme=tokyonight">
-            </p></td>
-            <td><p>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaBashlyaev&layout=compact&theme=tokyonight">
-            </p></td>
-        </tr>
-    </tbody>
-</table>
+### Code repositories
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ---
 
-## 📫 Contact
+## AI Stack
 
-- 📧 Email: **Will be soon...**
-- 💻 Website: **Will be soon...**
+### AI tools
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74A57F?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-9E57FF?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-00A3A0?style=for-the-badge&logo=perplexity&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/Copilot-0078D4?style=for-the-badge&logoColor=white)
+
+### AI agents
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-74A57F?style=for-the-badge&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Warp Oz](https://img.shields.io/badge/Warp_Oz-050505?style=for-the-badge&logo=warp&logoColor=white)
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+## Management Stack
+
+### Project management
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white)
+
+### Documentation
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
+
+## Main Projects
+| Name | Type | Stack | Link |
+| --- | --- | --- | --- |
+| Website Info | CRUD dashboard | **HTML/Bootstrap** (frontend) + **PHP/Laravel** (backend) | https://github.com/IlyaBashlyaev/Website-Info |
+| Licenses Database | CRUD application | **HTML/CSS/JS** (frontend) + **PHP/Laravel** (backend) | https://github.com/IlyaBashlyaev/Licenses-Database |
+| Fresh and Tasty | E-commerce website | **HTML/CSS/JS** (frontend) + **PHP** (backend) | https://github.com/IlyaBashlyaev/Fresh-and-Tasty |
+| Telegram on Web | Web-messenger | **HTML/CSS/JS** (frontend) + **PHP** (backend) | https://github.com/IlyaBashlyaev/Telegram-on-Web |
+
+---
+
+## Languages
+| Language | Proficiency |
+| --- | --- |
+| 🇬🇧 English | `C1` (Fluent) |
+| 🇩🇪 German | `C1` (Fluent) |
+| 🇺🇦 Ukrainian | `C2` (Native) |
+| 🏳️ Russian | `C1` (Fluent) |
+
+---
+
+## GitHub Stats
+
+| Profile overview | Top languages | Contribution streak |
+| --- | --- | --- |
+| ![Stats](https://github-stats-extended.vercel.app/api?username=IlyaBashlyaev&show_icons=true&theme=tokyonight) | ![Top langs](https://github-stats-extended.vercel.app/api/top-langs/?username=IlyaBashlyaev&layout=compact&theme=tokyonight) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=IlyaBashlyaev&theme=tokyonight) |
