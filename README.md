@@ -8,6 +8,7 @@
 | --- | --- |
 | Name | Ilya Bashlyaev |
 | Location | Dortmund, Germany |
+| Age | 19 years old |
 | Current Role | Backend Developer |
 | Focus | Python (Django / FastAPI) and PHP (Laravel) |
 | Email | **Coming soon...** |
@@ -17,8 +18,8 @@
 ## Work Experience
 | Period | Role | Company |
 | --- | --- | --- |
-| 08/2024 - 01/2026 | Backend Developer Trainee (FIAE) | kajado GmbH |
 | 02/2026 - now | Backend Developer Trainee (FIAE) | eRecht24 IT GmbH |
+| 08/2024 - 01/2026 | Backend Developer Trainee (FIAE) | kajado GmbH |
 
 ---
 
@@ -120,6 +121,7 @@
 ## Main Projects
 | Name | Type | Frontend | Backend | Link |
 | --- | --- | --- | --- | --- |
+| ChronoNote | chat‑style note application | JS / React | PHP / Laravel / Docker | https://github.com/IlyaBashlyaev/ChronoNote-Frontend<br>https://github.com/IlyaBashlyaev/ChronoNote-Backend |
 | Website Info | CRUD dashboard | HTML / Bootstrap | PHP / Laravel | https://github.com/IlyaBashlyaev/Website-Info |
 | Licenses Database | CRUD application | HTML / CSS / JS | PHP / Laravel | https://github.com/IlyaBashlyaev/Licenses-Database |
 | Fresh and Tasty | E-commerce website | HTML / CSS / JS | PHP | https://github.com/IlyaBashlyaev/Fresh-and-Tasty |
