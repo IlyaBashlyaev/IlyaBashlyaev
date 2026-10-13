@@ -8,7 +8,7 @@
 | --- | --- |
 | Name | Ilya Bashlyaev |
 | Location | Dortmund, Germany |
-| Age | 19 years old |
+| Age | 20 years old |
 | Current Role | Backend Developer |
 | Focus | Python (Django / FastAPI) and PHP (Laravel) |
 | Email | [ibashlyaev.dev@gmail.com](mailto:ibashlyaev.dev@gmail.com) |
